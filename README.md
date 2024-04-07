@@ -1,5 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 
+### About me:
+
+- 😊 I'm a 17 year old student, aspiring software and DevOps engineer.
+- ⚡ I have actually been coding for half my life, starting with Scratch and ending with Python, TypeScript and a bit of Rust.
+- 🏫 Currently in Tartu Jaan Poska Gymnasium
+- 🙌 I have been experimenting with a lot of stuff, homelabbing, microcontrollers, 3D printing, different programming languages, and alike.
+- 📫 Reach me at: kristofer@kristoferp.com
 <!--
 **kristoferkp/kristoferkp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
