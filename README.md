@@ -2,7 +2,7 @@
 
 ### About me:
 
-- 😊 I'm a 17 year old student, aspiring software and DevOps engineer.
+- 😊 I'm a 16 year old student, aspiring software and DevOps engineer.
 - ⚡ I have actually been coding for half my life, starting with Scratch and ending with Python, TypeScript and a bit of Rust.
 - 🏫 Currently in Tartu Jaan Poska Gymnasium
 - 🙌 I have been experimenting with a lot of stuff, homelabbing, microcontrollers, 3D printing, different programming languages, and alike.
